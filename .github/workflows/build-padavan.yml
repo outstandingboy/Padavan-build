@@ -3,7 +3,7 @@ name: Build Padavan
 
 on: 
   release:
-    types: [published]
+    types: newifi-mini
   push:
     tags:
     - 'v*'
